@@ -1,3 +1,5 @@
+#  for the face recognition using Haar-cascade and LBPH (Local Binary Pattern Histogram)
+
 classes:
   Soldier: 1
   Terrorist: 2
