@@ -1,0 +1,13 @@
+train: C:/Users/ganji/Downloads/Weapon 2.v2i.yolov8/train
+val: C:/Users/ganji/Downloads/Weapon 2.v2i.yolov8/train
+test: C:/Users/ganji/Downloads/Weapon 2.v2i.yolov8'/test
+
+nc: 2
+names: ['guns', 'knife']
+
+roboflow:
+  workspace: joao-assalim-xmovq
+  project: weapon-2
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/joao-assalim-xmovq/weapon-2/dataset/2

@@ -1,0 +1,13 @@
+train: C:\Users\ganji\Downloads\People Detection.v8i.yolov8\train\images
+val: C:\Users\ganji\Downloads\People Detection.v8i.yolov8\valid\images
+test: C:\Users\ganji\Downloads\People Detection.v8i.yolov8\test\images
+
+nc: 1
+names: ['person']
+
+roboflow:
+  workspace: leo-ueno
+  project: people-detection-o4rdr
+  version: 8
+  license: Private
+  url: https://universe.roboflow.com/leo-ueno/people-detection-o4rdr/dataset/8
