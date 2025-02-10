@@ -1,6 +1,6 @@
-# AI-Driven-Border-Security-and-Strategic-Management-System
+AI-Driven-Border-Security-and-Strategic-Management-System
 
-This project introduces an AI-Driven Border Security System designed to enhance real-time surveillance and threat detection. The system integrates cutting-edge deep learning models and classical computer vision techniques to ensure robust performance in complex border environments.  
+In this project we introduced an AI-Driven Border Security System designed to enhance real-time surveillance and threat detection. The system integrates cutting-edge deep learning models and classical computer vision techniques to ensure robust performance in complex border environments.  
 
 YOLOv8 serves as the core object detection model, specializing in identifying and classifying critical entities such as individuals and weapons from live video streams with high efficiency. Haar Cascade is employed for face detection, while Local Binary Pattern Histogram (LBPH) is utilized for facial recognition, ensuring accurate identification of individuals. Additionally, OSNet-based re-identification is incorporated to track and identify individuals across multiple cameras, enabling seamless monitoring even in multi-camera setups.  
 
