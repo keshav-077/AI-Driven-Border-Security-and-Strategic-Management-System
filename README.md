@@ -1,4 +1,4 @@
-#AI-Driven-Border-Security-and-Strategic-Management-System
+# AI-Driven-Border-Security-and-Strategic-Management-System
 
 In this project we introduced an AI-Driven Border Security System designed to enhance real-time surveillance and threat detection. The system integrates cutting-edge deep learning models and classical computer vision techniques to ensure robust performance in complex border environments.  
 
