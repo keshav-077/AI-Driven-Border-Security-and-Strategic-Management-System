@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>AI-Driven Border Security & Surveillance System</title>
 
 </head>
 <body>
