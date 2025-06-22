@@ -72,7 +72,6 @@ Future enhancements will focus on extending the system's capabilities to include
     <img src="assets/weapon_confusion_matrix.png" alt="Weapon Detection - Confusion Matrix">
     <img src="assets/weapon_loss_curve.png" alt="Weapon Detection - Training Loss Curve">
     <img src="assets/weapon_pr_curve.png" alt="Weapon Detection - PR Curve">
-
     <h3>2. Person Detection</h3>
     <ul>
       <li>Precision: 91%</li>
@@ -125,7 +124,7 @@ Future enhancements will focus on extending the system's capabilities to include
 
   <div class="section">
     <h2>📬 Contact</h2>
-    <p>For questions or collaboration, reach out via <a href="https://github.com/your-username">GitHub</a> or email.</p>
+    <p>For questions or collaboration, reach out via <a href="https://github.com/keshav-077">GitHub</a> or email.</p>
   </div>
 
 </body>
