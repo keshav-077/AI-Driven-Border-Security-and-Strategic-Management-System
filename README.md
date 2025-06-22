@@ -43,7 +43,7 @@ Future enhancements will focus on extending the system's capabilities to include
   <div class="section">
     <h2>📸 System Architecture</h2>
     <p>Below is the high-level architecture integrating multi-camera inputs, object detection, and classification logic.</p>
-    <img src="assets/architecture.png" alt="System Architecture Diagram">
+    <img src="assets/weaponarch.png" alt="System Architecture Diagram">
   </div>
 
   <div class="section">
@@ -65,24 +65,15 @@ Future enhancements will focus on extending the system's capabilities to include
       <li>Recall: 90%</li>
       <li>F1-Score: 91%</li>
     </ul>
-    <img src="assets/weapon_precision.png" alt="Weapon Detection - Precision">
-    <img src="assets/weapon_recall.png" alt="Weapon Detection - Recall">
-    <img src="assets/weapon_f1score.png" alt="Weapon Detection - F1 Score">
-    <img src="assets/weapon_confusion_matrix.png" alt="Weapon Detection - Confusion Matrix">
-    <img src="assets/weapon_loss_curve.png" alt="Weapon Detection - Training Loss Curve">
-    <img src="assets/weapon_pr_curve.png" alt="Weapon Detection - PR Curve">
+    <img src="assets/confusionforweapon.png" alt="Weapon Detection - Confusion Matrix">
     <h3>2. Person Detection</h3>
     <ul>
       <li>Precision: 91%</li>
       <li>Recall: 89%</li>
       <li>F1-Score: 90%</li>
     </ul>
-    <img src="assets/person_precision.png" alt="Person Detection - Precision">
-    <img src="assets/person_recall.png" alt="Person Detection - Recall">
-    <img src="assets/person_f1score.png" alt="Person Detection - F1 Score">
-    <img src="assets/person_confusion_matrix.png" alt="Person Detection - Confusion Matrix">
-    <img src="assets/person_loss_curve.png" alt="Person Detection - Training Loss Curve">
-    <img src="assets/person_pr_curve.png" alt="Person Detection - PR Curve">
+    <img src="assets/confusionforperson.png" alt="Person Detection - Confusion Matrix">
+
   </div>
 
   <div class="section">
