@@ -22,8 +22,8 @@ Future enhancements will focus on extending the system's capabilities to include
 
   <p>
   For the research behind this project, you can view the full 
-  <a href="./docs/SignLanguage_Research_Report.pdf" target="_blank">📘 Project Report</a> and the 
-  <a href="./docs/SignLanguage_Presentation.pptx" target="_blank">📊 Presentation Slides</a>.
+  <a href="Mini Project Report_Final.pdf" target="_blank">📘 Project Report</a> and the 
+  <a href="Mini Project_Final PPT.pptx" target="_blank">📊 Presentation Slides</a>.
 </p>
 
 
