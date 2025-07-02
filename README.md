@@ -20,6 +20,13 @@ Performance evaluation employs metrics like precision, recall, and F1-score, alo
 Future enhancements will focus on extending the system's capabilities to include behavior analysis and anomaly detection, further solidifying its role as an indispensable tool for border security and national safety.
   </p>
 
+  <p>
+  For the research behind this project, you can view the full 
+  <a href="./docs/SignLanguage_Research_Report.pdf" target="_blank">📘 Project Report</a> and the 
+  <a href="./docs/SignLanguage_Presentation.pptx" target="_blank">📊 Presentation Slides</a>.
+</p>
+
+
   <div class="section">
     <h2>📁 Dataset Preparation</h2>
     <ul>
@@ -84,12 +91,6 @@ Future enhancements will focus on extending the system's capabilities to include
       <li>Generalized well across varying environments (high mAP and low loss)</li>
     </ul>
   </div>
-
-  <p>
-  For the research behind this project, you can view the full 
-  <a href="./docs/SignLanguage_Research_Report.pdf" target="_blank">📘 Project Report</a> and the 
-  <a href="./docs/SignLanguage_Presentation.pptx" target="_blank">📊 Presentation Slides</a>.
-</p>
 
   <div class="section">
     <h2>🚀 Deployment Highlights</h2>
