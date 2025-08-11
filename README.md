@@ -60,7 +60,6 @@ Future enhancements will focus on extending the system's capabilities to include
       <li>🔫 <strong>Weapon Detection:</strong> Pistols, rifles, knives</li>
       <li>🧍 <strong>Person Tracking:</strong> Detects and tracks individuals</li>
       <li>🆔 <strong>Facial Classification:</strong> Labels individuals as Soldier or Terrorist</li>
-      <li>🚨 <strong>Real-time Alert System:</strong> Ready for SMS/Email integration</li>
     </ul>
   </div>
 
